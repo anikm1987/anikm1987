@@ -1,6 +1,6 @@
 ### Hi there 👋, Welcome to my Github page
 
-- 🔭 I’m currently working on making developer experience better.
+- 🔭 I’m currently working on making developer experience better by reducing initial development setup time.
 - 🌱 I’m currently learning oclif and click as I am big fan of Heroku CLI.
 
 <!--
