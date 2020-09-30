@@ -1,7 +1,7 @@
 ### Hi there 👋, Welcome to my Github page
 
 - 🔭 I’m currently working on making developer experience better by reducing initial development setup time.
-- 🌱 I’m currently learning oclif and click as I am big fan of Heroku CLI.
+- 🌱 I’m currently learning oclif and click as I am a big fan of Heroku CLI.
 
 <!--
 **anikm1987/anikm1987** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
