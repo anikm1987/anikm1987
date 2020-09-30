@@ -1,7 +1,7 @@
-### Hi there 👋
-#### Welcome to my Github page
+### Hi there 👋, Welcome to my Github page
 
 🔭 I’m currently working on SPA using Vue.js deployed inside AKS cluster
+🌱 I’m currently learning oclif as I am big fan of Heroku CLI
 
 <!--
 **anikm1987/anikm1987** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
