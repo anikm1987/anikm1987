@@ -41,7 +41,7 @@ Focus on:
 - Reusable architecture patterns and frameworks 
 - Workshop-style architecture design sessions   
 - Cloud / integration design decisions
-- Impact of AI & Agentic on DevSecOps 
+- Impact of AI & Agentic on DevSecOps, Modern Engineering, SDLC 
 ---
 
 ## 5. What I push back on  
